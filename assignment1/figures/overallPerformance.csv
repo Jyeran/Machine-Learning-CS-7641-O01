@@ -1,0 +1,6 @@
+Dataset,Model,Training Acc,Testing Acc,,Dataset,Model,Training Acc,Testing Acc,
+wine,MLP,0.881,0.888,,cancer,MLP,0.971,0.982,*
+wine,SVM,0.999,0.889,,cancer,SVM,0.977,0.982,*
+wine,KNN,1.000,0.902,*,cancer,KNN,1.000,0.974,
+wine,BOOST,1.000,0.906,*,cancer,BOOST,1.000,0.982,*
+wine,TREE,0.955,0.877,,cancer,TREE,0.988,0.961,

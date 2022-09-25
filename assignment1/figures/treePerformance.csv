@@ -1,0 +1,9 @@
+,dataset,model,splitting,treeSize,trainacc,testacc,trainTime,predictTime
+0,wine,base,entropy,175,1,0.848,0.009,0.001
+1,wine,base,gini,191,1,0.844,0.009,0.001
+2,wine,pruned0.002,gini,63,0.955,0.877,0.011,0.001
+3,wine,pruned0.005,entropy,61,0.946,0.861,0.004,0
+4,cancer,base,entropy,27,1,0.952,0.014,0.001
+5,cancer,base,gini,37,1,0.939,0.005,0
+6,cancer,pruned0.011,gini,9,0.956,0.956,0.011,0
+7,cancer,pruned0.011,entropy,9,0.988,0.961,0.012,0

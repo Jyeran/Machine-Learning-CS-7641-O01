@@ -1,0 +1,13 @@
+,dataset,model,pruneAlpha,nEstimators,trainAcc,testAcc,trainTime,predictTime
+0,wine,base,,,1,0.848,0.01,0
+1,wine,base,,,1,0.844,0.008,0
+2,wine,base,pruned0.002,,0.955,0.877,0.01,0.001
+3,wine,base,pruned0.005,,0.946,0.861,0.013,0
+4,wine,boosted,pruned0.001,10,1,0.873,0.115,0.005
+5,wine,boosted,pruned0.001,98,1,0.906,1.182,0.048
+6,cancer,base,,,1,0.952,0.01,0.001
+7,cancer,base,,,1,0.939,0.011,0.001
+8,cancer,base,pruned0.011,,0.956,0.956,0.011,0
+9,cancer,base,pruned0.011,,0.988,0.952,0.011,0.001
+10,cancer,boosted,pruned0.005,10,1,0.961,0.109,0.004
+11,cancer,boosted,pruned0.005,94,1,0.982,0.944,0.03

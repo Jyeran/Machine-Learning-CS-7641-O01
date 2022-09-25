@@ -1,0 +1,9 @@
+,dataset,k,weighting,trainAcc,testAcc
+0,wine,5,uniform,0.903,0.859
+1,wine,5,weighted,1,0.878
+2,wine,1,uniform,1,0.883
+3,wine,8,weighted,1,0.902
+4,cancer,5,uniform,0.974,0.961
+5,cancer,5,weighted,0.974,0.961
+6,cancer,8,uniform,0.965,0.969
+7,cancer,10,weighted,1,0.974
