@@ -1,4 +1,4 @@
-You can access all code used in the assignment here: https://github.com/Jyeran/Machine-Learning-CS-7641-O01.git
+You can access all code used in the assignment here: https://github.com/Jyeran/Machine-Learning-CS-7641-O01/tree/main/assignment%202
 
 Package dependecies:
 -sci-kit learn
