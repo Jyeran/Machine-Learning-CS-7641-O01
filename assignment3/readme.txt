@@ -8,6 +8,7 @@ Package dependecies:
 -matplotlib
 -six
 -mlrose-hiive
+-scipy
 
 Each algorithm is broken into a different python file. In order to run the entire analysis.
 
