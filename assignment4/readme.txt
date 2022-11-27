@@ -1,5 +1,5 @@
 # Machine-Learning-CS-7641-O01 Assignment 4
-You can access all code used in the assignment here: https://github.com/Jyeran/Machine-Learning-CS-7641-O01.git
+You can access all code used in the assignment here: https://github.com/Jyeran/Machine-Learning-CS-7641-O01/tree/main/assignment4
 
 Package dependecies:
 -pandas
